@@ -1,0 +1,29 @@
+div{
+    text-align: center;
+}
+
+label{
+    font-size: 100px;
+}
+
+.botonVerde{
+    font-size: 25px;
+    padding: 10px;
+    background-color: lightgreen;
+    border-radius: 10px;
+}
+
+.botonRojo{
+    font-size: 25px;
+    padding: 10px;
+    background-color: lightcoral;
+    border-radius: 10px;
+}
+
+.botonAzul{
+    font-size: 25px;
+    padding: 10px;
+    background-color: lightblue;
+    border-radius: 10px;
+}
+
